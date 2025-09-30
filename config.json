@@ -3,14 +3,14 @@
     "notiGroup": true,
     "MAINTENANCE": false,
     "allowInbox": false,
-    "BOTNAME": " 💢 ",
-    "AMDIN_NAME": "Lương Trường Khôi",
+    "BOTNAME": " CDZ mobile ",
+    "AMDIN_NAME": "Chính Ok",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": ".",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/khong.biet.at.ten.la.gi.cu.goi.la.chi",
+    "PREFIX": "/",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "100046393335967",
         ""
     ],
     "NDH": [
